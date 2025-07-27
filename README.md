@@ -16,4 +16,4 @@ I'm an Aspiring Automation Engineer with a passion for the hardware-software int
 **⚡ My Key Projects:**
 - [Link al tuo progetto RISC-V su GitHub] - A 5-stage pipelined RISC-V RV32I Processor.
 - [Link al tuo progetto GPU su GitHub] - An ICB-based Graphics Peripheral for a RISC-V SoC.
-- [Link al tuo progetto] - A FPGA-Based Automotive Tail Light System 
+- [[A FPGA-Based Automotive Tail Light System ]](https://github.com/andreagallo-dev/fpga-automotive-taillight-controller) - A FPGA-Based Automotive Tail Light System 
