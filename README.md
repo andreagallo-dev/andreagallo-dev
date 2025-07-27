@@ -14,6 +14,6 @@ I'm an Aspiring Automation Engineer with a passion for the hardware-software int
 - Email: andreag21a@gmail.com
 
 **⚡ My Key Projects:**
-- [Link al tuo progetto RISC-V su GitHub] - A 5-stage pipelined RISC-V RV32I Processor.
-- [Link al tuo progetto GPU su GitHub] - An ICB-based Graphics Peripheral for a RISC-V SoC.
-- [[A FPGA-Based Automotive Tail Light System ]](https://github.com/andreagallo-dev/fpga-automotive-taillight-controller) - A FPGA-Based Automotive Tail Light System 
+- [A 5-stage pipelined RISC-V RV32I Processor.](https://github.com/andreagallo-dev/risc-v-pipelined-processor-by-Gallo-Andrea)
+- [An ICB-based Graphics Peripheral for a RISC-V SoC.](https://github.com/andreagallo-dev/riscv-soc-hdmi-controller)
+- [A FPGA-Based Automotive Tail Light System.](https://github.com/andreagallo-dev/fpga-automotive-taillight-controller)
