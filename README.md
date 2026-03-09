@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrea 👋
 
-I'm an Aspiring Automation Engineer with a passion for the hardware-software interface, Robotics, RISC-V architecture, FPGA design. I am currently a Dual Degree student at the University of Bologna and Tongji University, Shanghai.
+I'm an Aspiring Automation Engineer with a passion for the hardware-software interface, Robotics, Homelabbing, RISC-V architecture, FPGA design. I am currently a Dual Degree student at the University of Bologna and Tongji University, Shanghai.
 
 **🔭 I’m currently working on:**
 - Refining my 5-stage pipelined RISC-V processor.
