@@ -1,13 +1,15 @@
 ### Hi there, I'm Andrea 👋
 
-I'm an Aspiring Automation Engineer with a passion for the hardware-software interface, RISC-V architecture, and FPGA design. I am currently a Dual Degree student at the University of Bologna and Tongji University, Shanghai.
+I'm an Aspiring Automation Engineer with a passion for the hardware-software interface, Robotics, RISC-V architecture, FPGA design. I am currently a Dual Degree student at the University of Bologna and Tongji University, Shanghai.
 
 **🔭 I’m currently working on:**
 - Refining my 5-stage pipelined RISC-V processor.
 - Exploring embedded graphics with custom SoC peripherals.
+- Developing and simulating mobile robot navigation and control systems using ROS2 and Gazebo.
 
 **🌱 I’m currently learning:**
 - Advanced verification techniques for complex digital systems.
+- Mobile robotics tools.
 
 **📫 How to reach me:**
 - LinkedIn: www.linkedin.com/in/andrea-gallo-1505ab377
