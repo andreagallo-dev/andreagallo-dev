@@ -27,4 +27,3 @@ I like understanding autonomous systems **end to end**: how a robot plans its pa
 
 <a href="https://www.linkedin.com/in/andrea-gallo-1505ab377"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
 
-<sub>Off the keyboard: Taekwondo, 1st Dan black belt after ten years of training.</sub>
