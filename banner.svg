@@ -1,81 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Andrea Gallo - Robotics and Embedded Systems" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyMWY5ZWYxYS1iNjZjLTRmMDYtYWNmYi1hZTY1ODJmNGIzOWMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKh+Wa0zB6NJVIhW62EeIFwAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2NTA2YzgwOC1hYWY1LTRlNTUtODNhNC05ZTZkMGIxYTdmYjFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoPHLEe51MB2d7PWRajPYBiAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggIusY0Aeln19k+5wJYZFRsEL922nzx0i04GiEoRlYTlWkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaDfIMe8tHDKhskG9+GNihKYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIOUZ0rpWm6dDjWaZWnQ+ohQwctoQ8qsfhjL+TFJKt8JPZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQEIZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjIxZjllZjFhLWI2NmMtNGYwNi1hY2ZiLWFlNjU4MmY0YjM5Yy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjViN2FiZTZiLTlkN2EtNDE5Ny1hZDhjLTM2ZGZjNDBkNzkwOHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAi6xjQB6WfX2T7nAlhkVGwQv3bafPHSLTgaIShGVhOVaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggDINmEZwdrpaFnE5BOKlA4VcfnwCv2WjeOsYG3FS8x6WiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggV2CHzKssE0TlC18YEGK6WUlQeywC3lOg1SCSFFLThul0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQDcH4uWkkD8aZUKkQP1X5pTBLprDJrdV5z9BPBouIdqxg2qa7IDaHShMt3WEn4Wtj9vcaOugV9A3WNAI48dF9Sg=</c2pa:manifest></metadata>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Andrea Gallo, Robotics, Control and Embedded Systems">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="1" stop-color="#0f1b2e"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
-      <stop offset="0" stop-color="#2f81f7" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#2f81f7" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#58a6ff" stroke-opacity="0.07" stroke-width="1"/>
-    </pattern>
-    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0d1117" stop-opacity="0.9"/>
-      <stop offset="0.5" stop-color="#0d1117" stop-opacity="0"/>
-    </linearGradient>
-    <path id="route" d="M720 130 C790 40 860 40 900 110 S1010 190 1080 110 S1170 50 1230 100"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0f1b2e"/></linearGradient>
+    <radialGradient id="glow" cx="0.78" cy="0.15" r="0.7"><stop offset="0" stop-color="#2f81f7" stop-opacity="0.22"/><stop offset="1" stop-color="#2f81f7" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#58a6ff" stroke-opacity="0.06"/></pattern>
   </defs>
-
-  <!-- background -->
-  <rect width="1280" height="320" fill="url(#bg)"/>
-  <rect width="1280" height="320" fill="url(#grid)"/>
-  <rect width="1280" height="320" fill="url(#glow)"/>
-  <rect width="760" height="320" fill="url(#fade)"/>
-
-  <!-- left: text -->
-  <text x="64" y="92" font-family="'Fira Code','SFMono-Regular',Consolas,monospace" font-size="14" letter-spacing="3" fill="#58a6ff">ROS 2  ·  NAV2  ·  RISC-V  ·  FPGA</text>
-  <text x="64" y="160" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="68" font-weight="700" fill="#ffffff">Andrea Gallo</text>
-  <text x="64" y="204" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="600" fill="#58a6ff">Robotics &amp; Embedded Systems</text>
-  <text x="64" y="240" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" fill="#8b949e">Automation Engineering graduate  ·  University of Bologna</text>
-
-  <!-- right top: waypoint navigation -->
-  <text x="720" y="36" font-family="'Fira Code',Consolas,monospace" font-size="12" letter-spacing="2" fill="#8b949e">WAYPOINT NAVIGATION</text>
-  <use xlink:href="#route" href="#route" fill="none" stroke="#2f81f7" stroke-width="2" stroke-opacity="0.9" stroke-dasharray="7 7">
-    <animate attributeName="stroke-dashoffset" from="0" to="-56" dur="2.5s" repeatCount="indefinite"/>
-  </use>
-  <g fill="#0d1117" stroke="#3fb950" stroke-width="2">
-    <circle cx="720" cy="130" r="7"/>
-    <circle cx="900" cy="110" r="7"/>
-    <circle cx="1080" cy="110" r="7"/>
-    <circle cx="1230" cy="100" r="7"/>
+  <rect width="1280" height="320" rx="16" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="16" fill="url(#grid)"/>
+  <rect width="1280" height="320" rx="16" fill="url(#glow)"/>
+  <text x="64" y="96" font-family="'Fira Code','SFMono-Regular',Consolas,monospace" font-size="15" letter-spacing="4" fill="#58a6ff">ROBOTICS · CONTROL · EMBEDDED</text>
+  <text x="64" y="166" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="66" font-weight="700" fill="#ffffff">Andrea Gallo</text>
+  <text x="64" y="210" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="600" fill="#c9d1d9">From ROS 2 navigation down to the silicon</text>
+  <text x="64" y="246" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#8b949e">Automation Engineering graduate · Bologna × Tongji (Shanghai)</text>
+  <g transform="translate(684,62)">
+    <rect width="168" height="196" rx="12" fill="#0b1220" fill-opacity="0.85" stroke="#30363d"/>
+    <circle cx="16" cy="16" r="4" fill="#58a6ff"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="28" y="20" font-family="'Fira Code','SFMono-Regular',Consolas,monospace" font-size="11" letter-spacing="2" fill="#8b949e">NAV2</text>
+    <g stroke="#58a6ff" stroke-opacity="0.08"><line x1="14" y1="34" x2="14" y2="186"/><line x1="36" y1="34" x2="36" y2="186"/><line x1="58" y1="34" x2="58" y2="186"/><line x1="80" y1="34" x2="80" y2="186"/><line x1="102" y1="34" x2="102" y2="186"/><line x1="124" y1="34" x2="124" y2="186"/><line x1="146" y1="34" x2="146" y2="186"/><line x1="10" y1="40" x2="158" y2="40"/><line x1="10" y1="62" x2="158" y2="62"/><line x1="10" y1="84" x2="158" y2="84"/><line x1="10" y1="106" x2="158" y2="106"/><line x1="10" y1="128" x2="158" y2="128"/><line x1="10" y1="150" x2="158" y2="150"/><line x1="10" y1="172" x2="158" y2="172"/><line x1="10" y1="194" x2="158" y2="194"/></g>
+    <rect x="58" y="70" width="34" height="26" rx="3" fill="#30363d"/><rect x="104" y="128" width="40" height="22" rx="3" fill="#30363d"/>
+    <path id="bnav" d="M22 170 C40 110 52 104 70 112 S110 160 130 110 S150 60 150 46" fill="none" stroke="#58a6ff" stroke-width="2" stroke-dasharray="5 6"><animate attributeName="stroke-dashoffset" from="0" to="-44" dur="2s" repeatCount="indefinite"/></path>
+    <g fill="#0d1117" stroke="#3fb950" stroke-width="2"><circle cx="22" cy="170" r="5"/><circle cx="70" cy="112" r="5"/><circle cx="130" cy="110" r="5"/><circle cx="150" cy="46" r="5"/></g>
+    <circle r="11" fill="#58a6ff" fill-opacity="0.25"><animateMotion dur="7s" repeatCount="indefinite" rotate="auto"><mpath href="#bnav"/></animateMotion></circle>
+    <circle r="5" fill="#58a6ff"><animateMotion dur="7s" repeatCount="indefinite"><mpath href="#bnav"/></animateMotion></circle>
   </g>
-  <circle r="14" fill="#2f81f7" fill-opacity="0.25">
-    <animateMotion dur="9s" repeatCount="indefinite"><mpath xlink:href="#route" href="#route"/></animateMotion>
-  </circle>
-  <circle r="6" fill="#58a6ff">
-    <animateMotion dur="9s" repeatCount="indefinite"><mpath xlink:href="#route" href="#route"/></animateMotion>
-  </circle>
-
-  <!-- right bottom: 5-stage pipeline -->
-  <text x="740" y="212" font-family="'Fira Code',Consolas,monospace" font-size="12" letter-spacing="2" fill="#8b949e">5-STAGE PIPELINE</text>
-  <g stroke="#30363d" stroke-width="2">
-    <line x1="824" y1="251" x2="838" y2="251"/>
-    <line x1="922" y1="251" x2="936" y2="251"/>
-    <line x1="1020" y1="251" x2="1034" y2="251"/>
-    <line x1="1118" y1="251" x2="1132" y2="251"/>
+  <g transform="translate(866,62)">
+    <rect width="168" height="196" rx="12" fill="#0b1220" fill-opacity="0.85" stroke="#30363d"/>
+    <circle cx="16" cy="16" r="4" fill="#ff9f43"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="28" y="20" font-family="'Fira Code','SFMono-Regular',Consolas,monospace" font-size="11" letter-spacing="2" fill="#8b949e">CONTROL</text>
+    <line x1="18" y1="172" x2="156" y2="172" stroke="#30363d"/><line x1="18" y1="40" x2="18" y2="172" stroke="#30363d"/>
+    <path d="M18 172 H48 V66 H156" fill="none" stroke="#e6edf3" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="4 4"/>
+    <path d="M18 172 H48 C58 172 60 60 78 58 S100 70 112 66 S140 66 156 66" fill="none" stroke="#ff9f43" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100">
+      <animate attributeName="stroke-dashoffset" values="100;0;0;100" keyTimes="0;0.45;0.9;1" dur="5s" repeatCount="indefinite"/></path>
+    <text x="154" y="56" text-anchor="end" font-family="'Fira Code','SFMono-Regular',Consolas,monospace" font-size="10" fill="#8b949e">ω_ref</text>
   </g>
-  <g font-family="'Fira Code',Consolas,monospace" font-size="15" font-weight="600" text-anchor="middle" fill="#c9d1d9">
-    <rect x="740" y="230" width="84" height="42" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5">
-      <animate attributeName="fill" values="#161b22;#1f6feb;#161b22;#161b22" keyTimes="0;0.1;0.2;1" dur="5s" begin="0s" repeatCount="indefinite"/>
-    </rect>
-    <text x="782" y="257">IF</text>
-    <rect x="838" y="230" width="84" height="42" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5">
-      <animate attributeName="fill" values="#161b22;#1f6feb;#161b22;#161b22" keyTimes="0;0.1;0.2;1" dur="5s" begin="0.5s" repeatCount="indefinite"/>
-    </rect>
-    <text x="880" y="257">ID</text>
-    <rect x="936" y="230" width="84" height="42" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5">
-      <animate attributeName="fill" values="#161b22;#1f6feb;#161b22;#161b22" keyTimes="0;0.1;0.2;1" dur="5s" begin="1s" repeatCount="indefinite"/>
-    </rect>
-    <text x="978" y="257">EX</text>
-    <rect x="1034" y="230" width="84" height="42" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5">
-      <animate attributeName="fill" values="#161b22;#1f6feb;#161b22;#161b22" keyTimes="0;0.1;0.2;1" dur="5s" begin="1.5s" repeatCount="indefinite"/>
-    </rect>
-    <text x="1076" y="257">MEM</text>
-    <rect x="1132" y="230" width="84" height="42" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5">
-      <animate attributeName="fill" values="#161b22;#1f6feb;#161b22;#161b22" keyTimes="0;0.1;0.2;1" dur="5s" begin="2s" repeatCount="indefinite"/>
-    </rect>
-    <text x="1174" y="257">WB</text>
+  <g transform="translate(1048,62)">
+    <rect width="168" height="196" rx="12" fill="#0b1220" fill-opacity="0.85" stroke="#30363d"/>
+    <circle cx="16" cy="16" r="4" fill="#d2a8ff"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="28" y="20" font-family="'Fira Code','SFMono-Regular',Consolas,monospace" font-size="11" letter-spacing="2" fill="#8b949e">RISC-V</text>
+    <rect x="30" y="38" width="108" height="22" rx="5" fill="#161b22" stroke="#30363d">
+      <animate attributeName="fill" values="#161b22;#8957e5;#161b22;#161b22" keyTimes="0;0.1;0.22;1" dur="3s" begin="0.0s" repeatCount="indefinite"/></rect>
+    <text x="84.0" y="53" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,monospace" font-size="12" font-weight="600" fill="#e6edf3">IF</text><rect x="30" y="68" width="108" height="22" rx="5" fill="#161b22" stroke="#30363d">
+      <animate attributeName="fill" values="#161b22;#8957e5;#161b22;#161b22" keyTimes="0;0.1;0.22;1" dur="3s" begin="0.3s" repeatCount="indefinite"/></rect>
+    <text x="84.0" y="83" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,monospace" font-size="12" font-weight="600" fill="#e6edf3">ID</text><rect x="30" y="98" width="108" height="22" rx="5" fill="#161b22" stroke="#30363d">
+      <animate attributeName="fill" values="#161b22;#8957e5;#161b22;#161b22" keyTimes="0;0.1;0.22;1" dur="3s" begin="0.6s" repeatCount="indefinite"/></rect>
+    <text x="84.0" y="113" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,monospace" font-size="12" font-weight="600" fill="#e6edf3">EX</text><rect x="30" y="128" width="108" height="22" rx="5" fill="#161b22" stroke="#30363d">
+      <animate attributeName="fill" values="#161b22;#8957e5;#161b22;#161b22" keyTimes="0;0.1;0.22;1" dur="3s" begin="0.9s" repeatCount="indefinite"/></rect>
+    <text x="84.0" y="143" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,monospace" font-size="12" font-weight="600" fill="#e6edf3">MEM</text><rect x="30" y="158" width="108" height="22" rx="5" fill="#161b22" stroke="#30363d">
+      <animate attributeName="fill" values="#161b22;#8957e5;#161b22;#161b22" keyTimes="0;0.1;0.22;1" dur="3s" begin="1.2s" repeatCount="indefinite"/></rect>
+    <text x="84.0" y="173" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,monospace" font-size="12" font-weight="600" fill="#e6edf3">WB</text>
   </g>
 </svg>
